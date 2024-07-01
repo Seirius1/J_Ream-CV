@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/J_Ream-CV/static/css/main.f855e6bc.css",
+    "main.js": "/J_Ream-CV/static/js/main.4663341d.js",
+    "static/js/488.d6f3be9b.chunk.js": "/J_Ream-CV/static/js/488.d6f3be9b.chunk.js",
+    "static/media/logo.svg": "/J_Ream-CV/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/J_Ream-CV/index.html",
+    "main.f855e6bc.css.map": "/J_Ream-CV/static/css/main.f855e6bc.css.map",
+    "main.4663341d.js.map": "/J_Ream-CV/static/js/main.4663341d.js.map",
+    "488.d6f3be9b.chunk.js.map": "/J_Ream-CV/static/js/488.d6f3be9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4663341d.js"
+  ]
+}
